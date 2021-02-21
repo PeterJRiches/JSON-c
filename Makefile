@@ -12,4 +12,4 @@ clean :
 
 .PHONY : clean-all
 clean-all:
-	rm lint-json $(onjects)
+	rm lint-json $(objects)
