@@ -2,6 +2,9 @@
 # Ignore the compiled linter
 lint-json
 
+# Ignore the unlinked object files that the compiler outputs
+*.o
+
 
 
 # Put new things to ignore above this comment
